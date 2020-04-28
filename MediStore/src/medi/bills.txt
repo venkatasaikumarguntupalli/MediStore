@@ -1,0 +1,21 @@
+
+BILLING FOR YOUR MEDICINE
+Name :sai
+Phone number :7993283189
+Glycomet  10x13 : 130
+Volini  5x20 : 100
+The Bill is:230
+Discount:23
+The Final Bill:207
+ 
+ 
+BILLING FOR YOUR MEDICINE
+Name :sai
+Phone number :7993283189
+Volini  2x20 : 40
+Glycomet  2x13 : 26
+The Bill is:66
+Discount:6
+The Final Bill:60
+ 
+ 
